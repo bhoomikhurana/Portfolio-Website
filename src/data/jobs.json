@@ -1,0 +1,115 @@
+[
+  {
+    "id": "Maruti Suzuki",
+    "picture": "/images/marutilogo.png",
+    "title": "Software Developer Engineer Intern",
+    "time": "August 2023 - October 2023",
+    "company": "Maruti Suzuki India Ltd.",
+    "description": "In my role, I actively contributed to enhancing database performance by learning, troubleshooting and optimizing SQL and PL/SQL queries. I successfully identified and resolved inefficiencies, ultimately leading to significant improvements in database operations. Additionally, I worked upon developing a comprehensive Quality Control System.It involved conceptualizing, designing, and implementing a robustsystem that streamlined quality management processes across various operations. By leveraging the capabilities of ASP.NET WEB FORMS, I ensured a user-friendly interface and seamless integration with existing systems, facilitating efficient data management and quality assurance practices. ",
+    "activities": [
+      "Assisted in troubleshooting and optimizing SQL and PL/SQL queries for improved database performance",
+      "Developed Quality Control System using ASP.NET WEB FORMS"
+    ],
+    "technologies": [
+      {
+        "name": "MySQL",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716250162/rbkvanceigzanhjk8zck.png"
+      },
+      {
+        "name": "PL/SQL",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716250300/c5ijg3otucdjxjgojn3a.svg"
+      },
+      {
+        "name": "dotNET",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716250535/x19gesyb8kyckzqlouou.png"
+      },
+      {
+        "name": "C#",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716250382/ag8c9tdrmvk5uqkvefzy.png"
+      },
+      {
+        "name": "Github",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png"
+      },
+      {
+        "name": "Git",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png"
+      },
+      {
+        "name": "CSS Module",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
+      },
+      {
+        "name": "Tailwind",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png"
+      }
+    ]
+  },
+  {
+    "id": "Shashi Foundation",
+    "picture": "/images/main_logo.png",
+    "title": "Personal projects",
+    "time": "September 2019 - June 2023",
+    "company": "Own",
+    "description": "In 2019, I discovered my passion for programming and decided to study it while in school. I began by learning Pseint and then progressed to C++, Java, and eventually HTML, CSS, and Javascript. It was during this time that I discovered my love for web development, particularly in frontend development. As I aspire to become a frontend developer, I have been working on several projects. Initially, I worked on long projects that I ended up abandoning. However, I learned that shorter, aesthetically-pleasing projects that demonstrate my skills are much better.",
+    "activities": [
+      "Continuous learning of different libraries and tools.",
+      "Discovering the beauty of Frontend Development.",
+      "Doing my best to deliver a clean design in my projects."
+    ],
+    "technologies": [
+      {
+        "name": "HTML",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443476/Portfolio/Icons/html_lbl9nf.png"
+      },
+      {
+        "name": "CSS",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png"
+      },
+      {
+        "name": "Figma",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444873/Portfolio/Icons/figma_ptyicc.png"
+      },
+      {
+        "name": "NPM",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"
+      },
+      {
+        "name": "Github",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png"
+      },
+      {
+        "name": "Git",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png"
+      },
+      {
+        "name": "React",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png"
+      },
+      {
+        "name": "Vercel",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel.png"
+      },
+      {
+        "name": "NextJS",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png"
+      },
+      {
+        "name": "CSS Module",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
+      },
+      {
+        "name": "Tailwind",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png"
+      },
+      {
+        "name": "Typescript",
+        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029638/Portfolio/Icons/typescript.png"
+      }
+    ]
+  }
+]

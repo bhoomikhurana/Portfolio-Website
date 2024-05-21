@@ -1,0 +1,149 @@
+[
+    {
+        "id": "Gifty",
+        "carouselImages": [ 
+            { "name": "Gifty1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998737/Portfolio/sixthProject/GiftyHome.png" },
+            { "name": "Gifty2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998028/Portfolio/sixthProject/GiftyAnimation.png" },
+            { "name": "Gifty3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998120/Portfolio/sixthProject/GiftySearch.png" }
+        ],
+        "repository": "https://github.com/JeremyDevCode/gifty",
+        "site": "https://gifty-jeremydevcode.vercel.app",
+        "title": "Gifty",
+        "resume": "Web application to find gifs, enjoy and share",
+        "description": "Web application to find gifs, enjoy and share them. It is connected to the Giphy API, it has a trending section and you can search for gifs of your favorite topic! In addition to being able to copy and paste them wherever you want, perfect for having fun with your friends.",
+
+        "technologies": [
+            { "name": "NextJS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png" },
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "Tailwind", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png" },
+            { "name": "CSS Module", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Vercel", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel_bsiamr.png" },
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    },
+    {
+        "id": "SecretPass",
+        "carouselImages": [
+            { "name": "SecretPass1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997602/Portfolio/fifthProject/SecretPassSafe.png" },
+            { "name": "SecretPass2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997681/Portfolio/fifthProject/SecretPassCare.png" },
+            { "name": "SecretPass3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997731/Portfolio/fifthProject/SecretPassCopy.png" }
+        ],
+        "repository": "https://github.com/JeremyDevCode/secretpass",
+        "site": "https://secretpass.vercel.app",
+        "title": "SecretPass",
+        "resume": "Create a random and secure password",
+        "description": "Web application to generate random passwords with the parameters and the size that you choose. It has an option to copy the password and another to regenerate a new password.",
+
+        "technologies": [
+            { "name": "NextJS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png" },
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "Tailwind", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png" },
+            { "name": "CSS Module", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png" },
+            { "name": "Vercel", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel_bsiamr.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    },
+    {
+        "id": "Price Fighter",
+        "carouselImages": [
+            { "name": "PriceFighter1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998218/Portfolio/seventhProject/PriceFighterHome.png" },
+            { "name": "PriceFighter2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998374/Portfolio/seventhProject/PriceFighterNormal.png" },
+            { "name": "PriceFighter3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680998412/Portfolio/seventhProject/PriceFighterStream.png" }
+            ],
+        "repository": "https://github.com/JeremyDevCode/pricefighter",
+        "site": "https://pricefighter.vercel.app",
+        "title": "Price Fighter",
+        "resume": "Web minigame to compare the prices of different products",
+        "description": "The project consisted of creating a web minigame similar to 'The Higher Lower Game' but we decided to compare product prices instead of visits!",
+
+        "technologies": [
+            { "name": "NextJS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png" },
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "Tailwind", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png" },
+            { "name": "CSS Module", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png" },
+            { "name": "Vercel", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel_bsiamr.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Figma", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444873/Portfolio/Icons/figma_ptyicc.png"},
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    },
+    {
+        "id": "Weather Now",
+        "carouselImages": [
+            { "name": "WeatherNow1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997418/Portfolio/fourthProject/WeatherNowHome.png" },
+            { "name": "WeatherNow2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997253/Portfolio/fourthProject/WeatherNowInto.png" },
+            { "name": "WeatherNow3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997313/Portfolio/fourthProject/WeatherNowError.png" }
+        ],
+        "repository": "https://github.com/JeremyDevCode/weathernow",
+        "site": "https://weathernow-jeremydevcode.vercel.app",
+        "title": "Weather Now",
+        "resume": "See the temperature of the location you want",
+        "description": "Web application to see the weather of the location you want using the OpenWeatherMap API, try to be a simple application that can run on any device and deliver the information quickly.",
+
+        "technologies": [
+            { "name": "NextJS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png" },
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "Tailwind", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png" },
+            { "name": "Vercel", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel_bsiamr.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    },
+    {
+        "id": "MovieDo",
+        "carouselImages": [
+            { "name": "MovieDo1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680996902/Portfolio/thirdProject/MovieDoLogo.png" },
+            { "name": "MovieDo2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997118/Portfolio/thirdProject/MovieDoMenu.png" },
+            { "name": "MovieDo3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680997004/Portfolio/thirdProject/MovieDoCategories.png" }
+        ],
+        "repository": "https://github.com/JeremyDevCode/movie-do",
+        "site": "https://movie-do.vercel.app",
+        "title": "MovieDo",
+        "resume": "Discover the most famous movies and interesting facts",
+        "description": "MovieDo is a web application with a netflix-like design that works with the TMDB (The Movie DataBase) API to pull popular movies, movies by category or even pull movies through a search, giving users information about their favorite movies and showing you a catalog of similar movies so you can continue browsing the website.",
+
+        "technologies": [
+            { "name": "NextJS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png" },
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "Tailwind", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png" },
+            { "name": "Vercel", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel_bsiamr.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    },
+    {
+        "id": "CubeDo",
+        "carouselImages": [
+            { "name": "CubeDo1", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680996550/Portfolio/firstProject/CubeDoLogo.png" },
+            { "name": "CubeDo2", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680996695/Portfolio/firstProject/CubeDoHome.png" },
+            { "name": "CubeDo3", "image": "https://res.cloudinary.com/deohsoirn/image/upload/v1680996763/Portfolio/firstProject/CubeDoProjection.png" }
+        ],
+        "repository": "https://github.com/JeremyDevCode/cubedo",
+        "site": "https://jeremydevcode.github.io/cubedo/",
+        "title": "CubeDo",
+        "resume": "Manage your tasks through a task list",
+        "description": "Web application for keeping notes, especially for tasks that you have to do and need to remember later in your day to day. It's one of the first fairly advanced projects trying to do with React, it has some features like a recycle bin in case you mess up and don't want to delete a note or want to restore it for some reason.",
+
+        "technologies": [
+            { "name": "React", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443905/Portfolio/Icons/react_hcvqxl.png" },
+            { "name": "CSS", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png" },
+            { "name": "JavaScript", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png" },
+            { "name": "React Router", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679977838/Portfolio/Icons/reactRouter_a7qj98.png" },
+            { "name": "NPM", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"},
+            { "name": "Git", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png" },
+            { "name": "Github", "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444346/Portfolio/Icons/github_bucanr.png" }
+        ]
+    }
+]
