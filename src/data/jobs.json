@@ -36,7 +36,7 @@
         "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444193/Portfolio/Icons/git_onxbvq.png"
       },
       {
-        "name": "CSS Module",
+        "name": "CSS",
         "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
       },
       {
@@ -48,35 +48,42 @@
   {
     "id": "Shashi Foundation",
     "picture": "/images/main_logo.png",
-    "title": "Personal projects",
-    "time": "September 2019 - June 2023",
-    "company": "Own",
-    "description": "In 2019, I discovered my passion for programming and decided to study it while in school. I began by learning Pseint and then progressed to C++, Java, and eventually HTML, CSS, and Javascript. It was during this time that I discovered my love for web development, particularly in frontend development. As I aspire to become a frontend developer, I have been working on several projects. Initially, I worked on long projects that I ended up abandoning. However, I learned that shorter, aesthetically-pleasing projects that demonstrate my skills are much better.",
+    "title": "Freelance FullStack Developer",
+    "time": "September 2023 - November 2023",
+    "company": "Forever Shashi Foundation",
+    "description": "As a Freelance Full Stack Developer,one of my project was with Forever Shashi Foundation where I designed and developed responsive website using Vue.js and Nuxt.js, ensuring optimal user experience and functionality. I collaborated with client to gather project requirements, created wireframes, and developed custom web solutions tailored to their needs. My work enhanced the NGO's online presence, supporting their mission and outreach efforts. I delivered multiple projects on time, demonstrating strong problem-solving and communication skills throughout the development process.",
     "activities": [
-      "Continuous learning of different libraries and tools.",
-      "Discovering the beauty of Frontend Development.",
-      "Doing my best to deliver a clean design in my projects."
+      " Designed and developed responsive websites using Vue.js and Nuxt.js, ensuring optimal user experiences and functionality",
+      "Collaborated with clients to gather project requirements, created wireframes, and developed custom web solutions tailored to their needs"
     ],
     "technologies": [
       {
-        "name": "HTML",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443476/Portfolio/Icons/html_lbl9nf.png"
+        "name": "Vue.js",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716249679/ufjpi2dsied7zdi0xskt.png"
+      },
+      {
+        "name": "Nuxt.js",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716254012/vde2ci1dmwcab3bmejrt.svg"
+      },
+      {
+        "name": "Slack",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716254079/xgywm3od16ls4yrxxr0l.png"
+      },
+      {
+        "name": "Bitbucket",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716254137/tinygndwf5cpbuewknrq.svg"
+      },
+      {
+        "name": "Jira",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716254202/svowytijrrsfsjvdpe7t.svg"
       },
       {
         "name": "CSS",
         "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
       },
       {
-        "name": "JavaScript",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443529/Portfolio/Icons/javascript_phrvvu.png"
-      },
-      {
         "name": "Figma",
         "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444873/Portfolio/Icons/figma_ptyicc.png"
-      },
-      {
-        "name": "NPM",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444858/Portfolio/Icons/npm_xvrucb.png"
       },
       {
         "name": "Github",
@@ -95,20 +102,8 @@
         "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029130/Portfolio/Icons/vercel.png"
       },
       {
-        "name": "NextJS",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679444045/Portfolio/Icons/next_z13ryh.png"
-      },
-      {
-        "name": "CSS Module",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443494/Portfolio/Icons/css_j6x6me.png"
-      },
-      {
-        "name": "Tailwind",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1679443857/Portfolio/Icons/tailwind_dxhsut.png"
-      },
-      {
-        "name": "Typescript",
-        "icon": "https://res.cloudinary.com/deohsoirn/image/upload/v1680029638/Portfolio/Icons/typescript.png"
+        "name": "Cloudinary",
+        "icon": "https://res.cloudinary.com/djluhh7mc/image/upload/v1716254307/zpp4vmbm6fnuvb2shos2.svg"
       }
     ]
   }
