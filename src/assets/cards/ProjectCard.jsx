@@ -37,14 +37,14 @@ function ProjectCard({ project }) {
           >
             <GithubIcon className="dark:stroke-secondaryBText stroke-secondaryWText dark:group-hover/links:stroke-bgBlack group-hover/links:stroke-bgWhite" />
           </a>
-          <a
+          {/* <a
             href={project.site}
             className="p-2 group/links dark:hover:bg-primaryBText hover:bg-primaryWText rounded-xl"
             target="_blank"
             aria-label={`Visit the project website of ${project.title}`}
           >
             <RepoIcon className="dark:stroke-secondaryBText stroke-secondaryWText dark:group-hover/links:stroke-bgBlack group-hover/links:stroke-bgWhite" />
-          </a>
+          </a> */}
         </div>
       </div>
       <Modal project={project} />

@@ -10,11 +10,10 @@ function Footer() {
         <section className="flex flex-col gap-2">
           <div className="flex items-center gap-2 text-lg font-extrabold dark:text-primaryBText text-primaryWText">
             <Logo />
-            Jeremy Mosquera
+            Bhoomi Khurana
           </div>
           <span className="dark:text-secondaryBText text-secondaryWText lg:text-lg lg:w-[60%] text-xs">
-            Frontend Developer with a passion for building unforgettable
-            websites.
+            Full Stack Developer and Java Programmer
           </span>
           <VscWidget />
         </section>

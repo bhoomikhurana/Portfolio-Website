@@ -31,14 +31,6 @@ function Modal({ project }) {
               <GithubIcon width="18" height="18" />
               GitHub
             </a>
-            <a
-              href={project.site}
-              className="flex items-center justify-center p-3 pr-4 gap-1 sm:gap-2 font-semibold text-sm text-[#252525] dark:text-[#CCCCCC] bg-[#00000011] dark:bg-[#FFFFFF11] dark:hover:bg-primaryBText hover:bg-[#111111] dark:hover:text-bgBlack hover:text-[#FAFBFC] rounded-lg transition-colors"
-              target="_blank"
-            >
-              <RepoIcon width="18" height="18" />
-              Ir al sitio
-            </a>
           </div>
           <p className="text-[#252525] dark:text-[#CCCCCC] text-[0.91rem]">
             {project?.description}

@@ -11,9 +11,9 @@ function GmailCard() {
         </small>
         <a
           className="text-lg font-bold dark:text-primaryBText text-primaryWText hover:underline decoration-1"
-          href="mailto:jeremydevcode@gmail.com"
+          href="mailto:bhoomi0612@gmail.com"
         >
-          jeremydevcode@gmail.com
+          bhoomi0612@gmail.com
         </a>
       </div>
     </li>

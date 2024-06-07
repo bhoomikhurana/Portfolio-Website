@@ -27,6 +27,9 @@ module.exports = {
       flex: {
         2: "0 0 100%",
       },
+      dropShadow: {
+        glow: ["(10px 0 5px red)"],
+      },
     },
   },
   darkMode: "class",

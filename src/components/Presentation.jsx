@@ -1,9 +1,6 @@
 import React from "react";
-import { ConsoleIcon } from "../assets/icons/ConsoleIcon";
 import { ContactIcon } from "../assets/icons/ContactIcon";
 import { DocumentIcon } from "../assets/icons/DocumentIcon";
-import { GearIcon } from "../assets/icons/GearIcon";
-import { RocketIcon } from "../assets/icons/RocketIcon";
 import logo from "../assets/images/gifimg.gif";
 import Image from "next/image";
 function Presentation() {
@@ -29,40 +26,6 @@ function Presentation() {
             <br />
           </p>
         </div>
-
-        {/* <ul className="flex justify-between items-start w-[80%] lg:w-[45%] select-none">
-        <li className="flex flex-col items-center justify-start gap-1 text-center text-secondaryBText">
-          <span className="flex items-center gap-2 text-2xl font-bold sm:text-3xl dark:text-primaryBText text-primaryWText">
-            +3
-            <RocketIcon />
-          </span>
-          <p className="text-sm leading-5 dark:text-secondaryBText text-secondaryWText">
-            Years of <br />
-            experience
-          </p>
-        </li>
-        <li className="flex flex-col items-center justify-start gap-1 text-center text-secondaryBText">
-          <span className="flex items-center gap-2 text-2xl font-bold sm:text-3xl dark:text-primaryBText text-primaryWText">
-            +100k
-            <ConsoleIcon />
-          </span>
-          <p className="text-sm leading-5 dark:text-secondaryBText text-secondaryWText">
-            Lines of <br />
-            written code
-          </p>
-        </li>
-        <li className="flex flex-col items-center justify-start gap-1 text-center text-secondaryBText">
-          <span className="flex items-center gap-2 text-2xl font-bold sm:text-3xl dark:text-primaryBText text-primaryWText">
-            +1k
-            <GearIcon />
-          </span>
-          <p className="text-sm leading-5 dark:text-secondaryBText text-secondaryWText">
-            bugs
-            <br />
-            solved
-          </p>
-        </li>
-      </ul> */}
         <div className="m-auto ">
           <Image className="rounded-lg" src={logo} width={885} height={905} />
         </div>
@@ -77,7 +40,7 @@ function Presentation() {
           <ContactIcon />
         </a>
         <a
-          href="/Jeremy Mosquera - Public CV.pdf"
+          href="/Resume_BhoomiKhurana.pdf"
           download
           className="flex items-center justify-center gap-4 py-4 font-bold border-0 dark:text-primaryWText w-fit dark:bg-primaryBText bg-secondaryWButton text-primaryBText hover:opacity-90 px-7 rounded-2xl"
           aria-label="Download CV"

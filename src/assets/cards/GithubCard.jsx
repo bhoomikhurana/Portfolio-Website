@@ -22,11 +22,11 @@ function GithubCard() {
         </small>
         <a
           className="text-lg font-bold dark:text-primaryBText text-primaryWText hover:underline decoration-1"
-          href="https://github.com/jeremydevcode"
+          href="https://github.com/bhoomikhurana"
           target="_blank"
           rel="noreferrer"
         >
-          /jeremydevcode
+          /bhoomikhurana
         </a>
       </div>
     </li>

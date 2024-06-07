@@ -7,7 +7,7 @@ import { Experience } from "../components/Experience";
 import { Presentation } from "../components/Presentation";
 import { Projects } from "../components/Projects";
 import { useLocalStorage } from "../modules/useLocalStorage";
-import Skills from "../components/Skills";
+import Skills from "../components/SkillsFolder/Skills";
 
 export default function Home() {
   const [theme, setTheme] = useLocalStorage("theme", "dark");

@@ -15,15 +15,15 @@ function LinkedinCard() {
       </svg>
       <div className="flex flex-col justify-center">
         <small className="dark:text-bGray text-wGray font-medium">
-            My LinkedIn account:
+          My LinkedIn account:
         </small>
         <a
           className="text-lg font-bold dark:text-primaryBText text-primaryWText hover:underline decoration-1"
-          href="https://linkedin.com/in/jeremydev"
+          href="https://www.linkedin.com/in/bhoomikhurana/"
           target="_blank"
           rel="noreferrer"
         >
-          /in/jeremydev
+          /in/bhoomikhurana
         </a>
       </div>
     </li>
